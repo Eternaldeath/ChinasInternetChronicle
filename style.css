@@ -43,10 +43,10 @@ blockquote{background:#f9f9f9;padding:8px 20px;border:1px solid #ccc;}
 .page { display:table;margin:0 auto;background:#fff;-moz-box-shadow: 0 5px 20px #CCCCCC;-webkit-box-shadow: 0 5px 20px #CCCCCC;box-shadow: 0 5px 20px #CCCCCC;}
 .link li { float:left;display:inline;margin-left:60px; }
 .link li a{color:#4F4E4E;font-size:16px;font-weight:500;padding-bottom:6px;display:block;}
-.link li.active{border-bottom:2px solid #0066ff;}
-.link li.active a{color:#0066FF  }
-.link li:hover { border-bottom:2px solid #0066ff;color:#0066FF  }
-.link li a:hover{color:#0066FF  }
+.link li.active{border-bottom:2px solid #666;}
+.link li.active a{color:#666  }
+.link li:hover { border-bottom:2px solid #666;color:#666  }
+.link li a:hover{color:#666  }
 .adlist{padding:20px;}
 .adlist li{float:left;diaplay:inline;margin-left:30px;margin-bottom:20px;width:110px;}
  
@@ -70,10 +70,10 @@ blockquote{background:#f9f9f9;padding:8px 20px;border:1px solid #ccc;}
  
 .box { width:940px;margin:18px auto 0 auto; }
 .left { width:140px;border-bottom:2px solid #DDD;background:#FFF;float:left; }
-.left li:hover { border-left:3px solid #0066ff; }
+.left li:hover { border-left:3px solid #666; }
 .left li a { height:40px;line-height:40px;display:block;color:#333 }
-.left li a:hover,.left li.active a{color:#0066FF}
-.left li.active{border-left:3px solid #0066ff;}
+.left li a:hover,.left li.active a{color:#666}
+.left li.active{border-left:3px solid #666;}
 .left li {
     border-left:3px solid #fff; 
     border-bottom: 1px solid #EEEEEE;
@@ -86,9 +86,9 @@ blockquote{background:#f9f9f9;padding:8px 20px;border:1px solid #ccc;}
  
 .event_year { width:100px;border-bottom:2px solid #DDD;text-align:center;float:left;margin-top:70px;margin-left:-60px; }
 .event_year li { height:40px;line-height:40px;background:#FFF;margin-bottom:1px;font-size:18px;color:#828282;cursor:pointer; }
-.event_year li.current { width:100px;background:#0066ff url('../img/jian.png') 100px 0 no-repeat;color:#FFF;text-align:left;padding-left:9px; }
+.event_year li.current { width:100px;background:#666 url('../img/jian.png') 100px 0 no-repeat;color:#FFF;text-align:left;padding-left:9px; }
 .event_list { width:850px;float:right;background:url('../img/dian3.png') 139px 0 repeat-y;margin-left:50px;margin-top:70px; }
-.event_list h3 { margin:0 0 10px 132px;font-size:24px;font-family:Georgia;color:#0066ff;padding-left:25px;background:url('../img/jian.png') 0 -45px no-repeat;height:38px;line-height:30px;font-style:italic; }
+.event_list h3 { margin:0 0 10px 132px;font-size:24px;font-family:Georgia;color:#666;padding-left:25px;background:url('../img/jian.png') 0 -45px no-repeat;height:38px;line-height:30px;font-style:italic; }
 .event_list li { background:url('../img/jian.png') 136px -80px no-repeat; }
 .event_list li span { width:127px;text-align:right;display:block;float:left;margin-top:10px; }
 .event_list li p { width:680px;margin-left:24px;display:inline-block;padding-left:10px;background:url('../img/jian.png') -21px 0 no-repeat;line-height:25px;_float:left; }
