@@ -35,5 +35,7 @@ npm install anywhere -g
 anywhere 
 ```
 
+# 其他
 
+[人物画像](https://github.com/Eternaldeath/ChinasInternetChronicle/tree/portrait)：《沸腾十五年》中，对于这一期间各种在互联网领域叱咤风云的人物的描写也有点意思。于是我将这些部分单独抽取出来，按照个人的为节点，按原本书本里面描述的顺序，经过微小调整（完全摘录，精简，补充）呈现出来
 
