@@ -1,13 +1,21 @@
 # 中国互联网大纪事
 ![avatar](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E6%AD%A3%E5%9C%A8%E6%9B%B4%E6%96%B0-green)
 
+- 基于《沸腾十五年》的事件已经更新完毕，后期仅做补充
+
 通过时间轴的方式展示中国互联网的变迁。
 
 # 参考书目
 
-《沸腾十五年》-林军
-百度百科
-维基百科
+- 《沸腾十五年》-林军
+- 百度百科
+- 维基百科
+
+# 未来计划
+
+- 阅读《沸腾新十年》-林军，并完成时间轴内容制作
+- 基于《沸腾十五年》《沸腾新十年》完善[人物画像](https://github.com/Eternaldeath/ChinasInternetChronicle/tree/portrait)和制作人物关系图谱
+- 优化界面样式
 
 # 时间轴样式参考
 [【前端Web】Jquery实现的四款牛B的时间轴--Joker_Ye](https://blog.csdn.net/hj7jay/article/details/56274376)
