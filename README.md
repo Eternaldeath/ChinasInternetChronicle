@@ -13,9 +13,13 @@
 
 # 未来计划
 
-- 阅读《沸腾新十年》-林军，并完成时间轴内容制作
-- 基于《沸腾十五年》《沸腾新十年》完善[人物画像](https://github.com/Eternaldeath/ChinasInternetChronicle/tree/portrait)和制作人物关系图谱
+- 根据《沸腾新十年》-林军，并完成（2009~2020）时间轴内容制作
+- 基于《沸腾十五年》《沸腾新十年》完善[人物画像](https://github.com/Eternaldeath/ChinasInternetChronicle/tree/portrait)
 - 优化界面样式
+
+# 可能计划
+
+- 绘制人物关系图谱
 
 # 时间轴样式参考
 [【前端Web】Jquery实现的四款牛B的时间轴--Joker_Ye](https://blog.csdn.net/hj7jay/article/details/56274376)
