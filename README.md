@@ -5,11 +5,14 @@
 
 通过时间轴的方式展示中国互联网的变迁。
 
-# 参考书目
+# 参考内容
 
 - 《沸腾十五年》-林军
 - 百度百科
 - 维基百科
+- [中国互联网博物馆](http://internet.cn/)：由 ```Biwood``` 推荐
+- [symbolics](https://symbolics.com/)：由 ```Biwood``` 推荐
+- [computerhistory](https://computerhistory.org/)：由 ```rpish ``` 推荐
 
 # 未来计划
 
