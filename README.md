@@ -52,5 +52,7 @@ anywhere
 
 # 其他
 
-[人物画像](https://github.com/Eternaldeath/ChinasInternetChronicle/tree/portrait)：《沸腾十五年》中，对于这一期间各种在互联网领域叱咤风云的人物的描写也有点意思。于是我将这些部分单独抽取出来，按照个人的为节点，按原本书本里面描述的顺序，经过微小调整（完全摘录，精简，补充）呈现出来
+[人物画像](https://github.com/Eternaldeath/ChinasInternetChronicle/blob/master/%E4%BA%BA%E7%89%A9%E7%94%BB%E5%83%8F.md)：《沸腾十五年》中，对于这一期间各种在互联网领域叱咤风云的人物的描写也有点意思。于是我将这些部分单独抽取出来，按照个人的为节点，按原本书本里面描述的顺序，经过微小调整（完全摘录，精简，补充）呈现出来
+
+[零零点点](https://github.com/Eternaldeath/ChinasInternetChronicle/blob/master/%E9%9B%B6%E9%9B%B6%E7%82%B9%E7%82%B9.md)：一些琐碎的东西
 
