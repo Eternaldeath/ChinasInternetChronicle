@@ -13,6 +13,7 @@
 - [中国互联网博物馆](http://internet.cn/)：由 ```Biwood``` 推荐
 - [symbolics](https://symbolics.com/)：由 ```Biwood``` 推荐
 - [computerhistory](https://computerhistory.org/)：由 ```rpish ``` 推荐
+- [计算机网络简史](https://mp.weixin.qq.com/s?src=11&timestamp=1648871420&ver=3713&signature=279yNlKwoZzn*8THGlO3hoCg5J0sp3rexXw2xrN2ocIfNfjOyY4*b6rxY8*9-y*l-6iA88Q9acLtXoqEjIlZ*mHrxaaFuLidSxgd8tS2ya5rxneZPlNN94Tz-VVGARaN&new=1)：脚本之家
 
 # 未来计划
 
